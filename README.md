@@ -73,9 +73,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnan612&theme=aura&hide_border=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Krishnan612&theme=aura&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnan612&theme=aura&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnan612&show_icons=true&theme=aura&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Krishnan612&theme=aura&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnan612&layout=compact&theme=aura&hide_border=true)
 
 ---
 
@@ -85,4 +87,4 @@
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Krishnan612&icon=10&color=0)
+![Profile Views](https://visitcount.itsvg.in/api?id=Krishnan612&label=Profile%20Views&_toggle=true)
