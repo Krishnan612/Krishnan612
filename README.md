@@ -1,10 +1,5 @@
 # 💫 About Me
 
-🚀 **Computer Science Student**  
-💻 Aspiring **Full Stack & Cloud Engineer**  
-🔐 Passionate about **Cybersecurity**  
-⚙️ Love building **scalable applications** using modern technologies  
-
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Computer+Science+Student;Aspiring+Full+Stack+%26+Cloud+Engineer;Passionate+about+Cybersecurity;Building+Scalable+Applications)](https://git.io/typing-svg)
@@ -74,7 +69,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Krishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnan000&show_icons=true&theme=radical)
+![Krishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishnan612&show_icons=true&theme=radical)
 
 ---
 
