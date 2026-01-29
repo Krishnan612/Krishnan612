@@ -1,6 +1,8 @@
 # 💫 About Me
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3PyuO4vpRL/giphy.gif" width="500" alt="coding gif" />
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Computer+Science+Student;Aspiring+Full+Stack+%26+Cloud+Engineer;Passionate+about+Cybersecurity;Building+Scalable+Applications)](https://git.io/typing-svg)
 
