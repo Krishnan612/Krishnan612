@@ -7,6 +7,8 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Computer+Science+Student;Aspiring+Full+Stack+%26+Cloud+Engineer;Passionate+about+Cybersecurity;Building+Scalable+Applications)](https://git.io/typing-svg)
+
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishnan_000)
@@ -64,20 +66,15 @@
 ### ⚙️ DevOps & Tools
 [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://www.netlify.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnan612&show_icons=true&theme=aura&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Krishnan612&theme=aura&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnan612&layout=compact&theme=aura&hide_border=true)
+![Krishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnan000&show_icons=true&theme=radical)
 
 ---
 
@@ -86,5 +83,3 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Krishnan612&label=Profile%20Views&_toggle=true)
