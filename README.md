@@ -70,6 +70,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3PyuO4vpRL/giphy.gif" width="500" alt="coding gif" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 ![Krishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishnan612&show_icons=true&theme=radical)
 
