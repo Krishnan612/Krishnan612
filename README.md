@@ -10,7 +10,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishnan_000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnan-p-/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=krishnan06122006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnan06122006@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Krishnan,%0AI%20saw%20your%20GitHub%20profile...)
 
 ---
 
