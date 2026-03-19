@@ -2,10 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Computer+Science+Student;Aspiring+Full+Stack+%26+Cloud+Engineer;Passionate+about+Cybersecurity;Building+Scalable+Applications)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="90%" />
+    </td>
+    <td align="right" width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" />
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials
 
