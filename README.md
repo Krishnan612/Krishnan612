@@ -1,16 +1,40 @@
-# 💫 About Me
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Computer+Science+Student;Aspiring+Full+Stack+%26+Cloud+Engineer;Passionate+about+Cybersecurity;Building+Scalable+Applications)](https://git.io/typing-svg)
-
+<!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://i.giphy.com/u2pmTWUi0MXjyrMaVj.gif" width="500" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 </p>
 
-## 🌐 Socials
+<!-- 💫 Hero Section -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="middle">
 
+## 💫 About Me
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Computer+Science+Student;Aspiring+Full+Stack+%26+Cloud+Engineer;Cybersecurity+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
+
+💡 Passionate about building real-world solutions  
+🚀 Exploring Cloud, DevOps & AI  
+🔐 Interested in Cybersecurity  
+
+  </td>
+
+  <td width="50%" align="right">
+    <img src="https://i.giphy.com/u2pmTWUi0MXjyrMaVj.gif" width="360"/>
+  </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishnan_000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnan-p-/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnan06122006@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Krishnan,%0AI%20saw%20your%20GitHub%20profile...)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=krishnan06122006@gmail.com)
+
+</p>
 
 ---
 
@@ -30,6 +54,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Magic UI](https://img.shields.io/badge/Magic_UI-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://magicui.design/)
 [![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
+
 ---
 
 ### 🧠 Backend
@@ -59,12 +84,14 @@
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://www.netlify.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 ---
 
+<!-- 🔥 Bottom GIF -->
 <p align="center">
-  <img src="https://i.giphy.com/sGIxhunddTUOHlHXgu.gif" width="500" alt="matrix coding gif" />
+  <img src="https://i.giphy.com/sGIxhunddTUOHlHXgu.gif" width="500"/>
 </p>
 
 ---
