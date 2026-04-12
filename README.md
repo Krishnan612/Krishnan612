@@ -16,6 +16,10 @@
 🚀 Exploring Cloud, DevOps & AI  
 🔐 Interested in Cybersecurity  
 
+### 🌐 My Portfolio  
+🚀 Check out my personal portfolio:  
+👉 **[krishnan-showcase.netlify.app](https://krishnan-showcase.netlify.app/)**  
+
   </td>
 
   <td width="50%" align="right">
@@ -30,6 +34,7 @@
 
 <p align="left">
   
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://krishnan-showcase.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishnan__000)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnan-p-/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=krishnan06122006@gmail.com)
